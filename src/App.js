@@ -10,8 +10,13 @@ const client = new ApolloClient({
 
 const App = () => (
     <ApolloProvider client={client}>
-      <div>
-        <Courses/>
+      <div className="container">
+          <nav className="navbar navbar-dark bg-primary">
+              <a className="navbar-brand" href="#">React and GraphQL - Sample Application</a>
+          </nav>
+          <div>
+              <Courses/>
+          </div>
       </div>
     </ApolloProvider>
 )

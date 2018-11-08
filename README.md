@@ -1,4 +1,4 @@
-# React=GraphQL
+# React-GraphQL
 
 Built by Vlastik Walker
 

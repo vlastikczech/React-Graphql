@@ -1,4 +1,4 @@
-# Udemy Course Graphql
+# React=GraphQL
 
 Built by Vlastik Walker
 
